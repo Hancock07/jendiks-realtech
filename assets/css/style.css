@@ -1,6 +1,15 @@
 body {
     font-family: "Roboto", sans-serif;
 }
+.logo{
+  width: 140px;
+}
+.hero-1{
+  background-image: url('../images/hero/banner-1.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
 .fade-up {
   opacity: 0;
   transform: translateY(40px);
